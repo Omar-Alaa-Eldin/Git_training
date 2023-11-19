@@ -1,2 +1,2 @@
 # Git_training
-learn GIT command.
+learn **GIT** command.
